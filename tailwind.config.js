@@ -1,0 +1,1 @@
+export default { content: ['./index.html','./src/**/*.{ts,tsx}'], theme: { extend: { colors: { void:'#080e14', panel:'#101a23', cyan:'#63d7e6', amber:'#e9a85b', muted:'#8094a1' }, fontFamily: { mono:['IBM Plex Mono','monospace'], sans:['Inter','sans-serif'] } } }, plugins: [] };
